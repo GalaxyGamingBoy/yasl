@@ -1,2 +1,2 @@
-# yasl
+# YASL
 Yet Another Slack Library
